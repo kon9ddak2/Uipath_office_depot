@@ -1,5 +1,5 @@
 {
-  "name": "202311_견적서메일발송",
+  "name": "202311_OfficeDepo",
   "projectId": "99c3a163-a14f-4cd3-a564-5872a57b3f23",
   "description": "Robotic Enterprise Framework",
   "main": "Main.xaml",
@@ -14,7 +14,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "23.8.0.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.1",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
