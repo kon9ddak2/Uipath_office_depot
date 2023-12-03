@@ -12,11 +12,11 @@ REFrameWork Template
 Robotic Enterprise Framework
 
 Keeps external settings in Config.xlsx file and Orchestrator assets
+
 <작업내용>
 1. 메일로 수신한 작업지시서 파일을 읽는다.
 2-1. 오피스디포 사이트에서 작업지시서의 물품코드를 검색한다
-2-2. 검색하여 나온 물품의 수량을 작업지시서 대로 입력하여 장
-바구니에 담는다.
+2-2. 검색하여 나온 물품의 수량을 작업지시서 대로 입력하여 장바구니에 담는다.
 3. 장바구니 페이지에서 견적서를 클릭하여 PDF 파일로 생성한다.
 4. 생성한 PDF 파일을 첨부하여 메일 발송한다.
 
@@ -24,7 +24,6 @@ Keeps external settings in Config.xlsx file and Orchestrator assets
 작업시작 전, QueItem을 사용하지 않을 것이므로
 TransactionItem을 DataRow로 변경
 QueItem의 상태값 변경 부분 커맨드아웃처리
-
 
 How It Works
 INITIALIZE PROCESS
